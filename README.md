@@ -1,0 +1,1 @@
+This file mainly, gives an example of how bootstrap works. Download the file in VS code and run the index.html code to see the result. In the program I have used multiple links all are from getbootstrap website. 
